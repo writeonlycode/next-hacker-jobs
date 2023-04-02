@@ -48,9 +48,9 @@ export default function Home({ jobs }: { jobs: Job[] }) {
             Next Hacker Jobs
           </span>
         </h1>
-        <ul className="">
+        <div>
           {jobsSections}
-        </ul>
+        </div>
         <div className="py-8 my-8">
           <div className="text-center uppercase font-bold my-4">
             <span>

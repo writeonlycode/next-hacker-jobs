@@ -1,14 +1,14 @@
 # Next Hacker Jobs
 
-The Next Hacker Jobs is a web application that allows users to browse the
-latests for job postings on Hacker News. The application is built using
-Next.js, a popular React framework that allows for server-side rendering and
-easy data fetching.
+The Next Hacker Jobs" is a web application that allows users to browse the
+latest job postings on Hacker News. The application is built using Next.js, a
+popular React framework that allows for server-side rendering and easy data
+fetching. It features a beautiful "neu brutalist" interface.
 
 Next.js is a powerful framework that offers many advantages, including easy
 setup, optimized performance, built-in SEO support, and high customizability
-and extensibility. Additionally, the web application uses server side
-rendering, resulting in always up to date content and improved SEO.
+and extensibility. Additionally, the web application uses server-side
+rendering, resulting in always up-to-date content and improved SEO.
 
 ![Next Hacker Jobs
 Screenshot](https://github.com/writeonlycode/next-landing/raw/main/src/screenshots/next-hacker-jobs-top.png)
@@ -69,8 +69,6 @@ Thank you for your interest in this project!
 ## Screenshots
 
 ![Top of the Page](https://github.com/writeonlycode/next-landing/raw/main/src/screenshots/next-hacker-jobs-top.png)
-
-![Middle of the Page](https://github.com/writeonlycode/next-landing/raw/main/src/screenshots/next-hacker-jobs-middle.png)
 
 ![Bottom of the Page](https://github.com/writeonlycode/next-landing/raw/main/src/screenshots/next-hacker-jobs-bottom.png)
 
