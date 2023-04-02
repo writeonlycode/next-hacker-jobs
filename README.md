@@ -11,13 +11,13 @@ and extensibility. Additionally, the web application uses server-side
 rendering, resulting in always up-to-date content and improved SEO.
 
 ![Next Hacker Jobs
-Screenshot](https://github.com/writeonlycode/next-landing/raw/main/src/screenshots/next-hacker-jobs-top.png)
+Screenshot](https://github.com/writeonlycode/next-hacker-jobs/raw/main/src/screenshots/next-hacker-jobs-top.png)
 
 
 ## Demo Website
 
 To see a live demo of the Next Hacker Jobs website, please visit
-https://next-hacker-jobs-blue.vercel.app/. Please note that this is a demo website
+https://next-hacker-jobs.vercel.app/. Please note that this is a demo website
 and not a official website. If you have any questions or feedback, please feel
 free to contact us!
 
@@ -68,7 +68,7 @@ Thank you for your interest in this project!
 
 ## Screenshots
 
-![Top of the Page](https://github.com/writeonlycode/next-landing/raw/main/src/screenshots/next-hacker-jobs-top.png)
+![Top of the Page](https://github.com/writeonlycode/next-hacker-jobs/raw/main/src/screenshots/next-hacker-jobs-top.png)
 
-![Bottom of the Page](https://github.com/writeonlycode/next-landing/raw/main/src/screenshots/next-hacker-jobs-bottom.png)
+![Bottom of the Page](https://github.com/writeonlycode/next-hacker-jobs/raw/main/src/screenshots/next-hacker-jobs-bottom.png)
 
