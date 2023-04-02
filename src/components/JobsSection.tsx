@@ -25,7 +25,7 @@ export default function JobsSection({
   return (
     <div>
       <h2 className="text-3xl font-heading font-bold mt-8 mb-2">
-        {localeDate}
+        {localeDate || time}
       </h2>
       {jobCards}
     </div>
